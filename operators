@@ -1,0 +1,6 @@
+public class Operator{
+public static void main(string[]arg){
+int a=20;
+System out print(a);
+}
+}
